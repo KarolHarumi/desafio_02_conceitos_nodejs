@@ -4,7 +4,7 @@ A simple API to create and list Repositories.
 
 ## Installation
 
-After cloning the repository just install the dependencias with `npm install`.
+After cloning the repository just install the dependencias with `yarn install`.
 
 ## Usage
 
